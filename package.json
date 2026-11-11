@@ -1,0 +1,28 @@
+{
+  "name": "projeto05-tpii",
+  "version": "1.0.0",
+  "description": "Sistema CRUD com Node.js, SQLite e API ViaCEP",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yasminandrade8/Projeto05-TPII.git"
+  },
+  "keywords": [],
+  "author": "Yasmin Andrade",
+  "license": "MIT",
+  "type": "module",
+  "allowScripts": {
+    "sqlite3@6.0.1": true
+  },
+  "bugs": {
+    "url": "https://github.com/yasminandrade8/Projeto05-TPII/issues"
+  },
+  "homepage": "https://github.com/yasminandrade8/Projeto05-TPII#readme",
+  "dependencies": {
+    "sqlite3": "^6.0.1"
+  }
+}
